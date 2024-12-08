@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://achatobrutcolmek.pages.dev/sitemap.xml
